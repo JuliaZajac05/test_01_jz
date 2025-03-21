@@ -1,0 +1,1 @@
+print("Dziś mamy piątek piąteczek piątunio dnia 21 marca 2025 roku czyli PIERWSZY DZIEŃ WIOSNY I DZIEŃ WAGAROWICZA YEAAAAAH")
